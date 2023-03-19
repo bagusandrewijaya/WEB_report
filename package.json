@@ -1,0 +1,20 @@
+{
+       "name": "WEB_report",
+       "version": "1.0.0",
+       "description": "",
+      "scripts": {
+          "build": "echo \"No build specified\" && exit 1",
+           "test": "echo \"No test specified\" && exit 1",
+         "start": "node index.js"
+       },
+       "repository": {
+           "type": "git",
+           "url": "git+https://github.com/bagusandrewijaya/WEB_report.git"
+   },
+       "author": "",
+          "license": "ISC",
+       "bugs": {
+           "url": "https://github.com/bagusandrewijaya/WEB_report/issues"
+       },
+     "homepage": "https://github.com/bagusandrewijaya/WEB_report#readme"
+}
